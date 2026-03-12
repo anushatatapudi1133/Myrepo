@@ -15,4 +15,3 @@ Welcome to java
 
   Hi this is my new commit
   
-Hello world
